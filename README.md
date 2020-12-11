@@ -1,5 +1,5 @@
 # Thinkpad-X1-Carbon-2015
-Hackintosh Thinkpad-X1-Carbon-2015(3rd gen) - OpenCore 0.6.3
+Hackintosh Thinkpad-X1-Carbon-2015 (3rd gen) - OpenCore 0.6.4
 
 ### Specs
 + OS: macOS Big Sur 11.0.1 (Build 20B29) x86_64 / MacBookPro12,1
