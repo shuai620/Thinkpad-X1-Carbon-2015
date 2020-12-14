@@ -1,8 +1,8 @@
-# Thinkpad-X1-Carbon-2015
-Hackintosh Thinkpad-X1-Carbon-2015 (3rd gen) - OpenCore 0.6.4
+# Thinkpad-x1-Carbon-2015 (3rd Gen)
+Hackintosh Thinkpad-x1-Carbon-2015 (3rd gen) - OpenCore 0.6.4
 
 ### Specs
-+ OS: macOS Big Sur 11.0.1 (Build 20B29) x86_64 / MacBookPro12,1
++ OS: macOS Big Sur 11.1 (Build 20C69) x86_64 / MacBookPro12,1
 
 + CPU: Intel® Core™ i5-5200U Processor (3M Cache, 2.2GHz)
 
