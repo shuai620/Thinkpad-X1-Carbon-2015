@@ -1,8 +1,8 @@
 # Thinkpad-x1-Carbon-2015 (3rd Gen)
-Hackintosh Thinkpad-x1-Carbon-2015 (3rd gen) - OpenCore 0.6.6
+Hackintosh Thinkpad-x1-Carbon-2015 (3rd gen) - OpenCore 0.6.7
 
 ### Specs
-+ OS: macOS Big Sur 11.2 (Build 20D64) x86_64 / MacBookPro12,1
++ OS: macOS Big Sur 11.2.2 (Build 20D80) x86_64 / MacBookPro12,1
 
 + CPU: Intel® Core™ i5-5200U Processor (3M Cache, 2.2GHz)
 
@@ -38,7 +38,7 @@ Hackintosh Thinkpad-x1-Carbon-2015 (3rd gen) - OpenCore 0.6.6
 
 ### Credits
 
-+ https://github.com/EchoEsprit/Hackintosh-Catalina-OpenCore-Lenovo-T450s-efi
++ https://github.com/racka98/Lenovo-Thinkpad-T450-T450s-Hackintosh-Guide-Opencore
 
 + https://github.com/OpenIntelWireless/itlwm
 
