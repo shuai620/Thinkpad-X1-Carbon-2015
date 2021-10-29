@@ -1,8 +1,8 @@
 # Thinkpad-x1-Carbon-2015 (3rd Gen)
-Hackintosh Thinkpad-x1-Carbon-2015 (3rd gen) - OpenCore 0.7.2
+Hackintosh Thinkpad-x1-Carbon-2015 (3rd gen) - OpenCore 0.7.4
 
 ### Specs
-+ OS: macOS Big Sur 11.6 (Build 20G165) x86_64 / MacBookPro12,1
++ OS: macOS Big Sur 12.0.1 (Build 21A559) x86_64 / MacBookPro12,1
 
 + CPU: Intel® Core™ i5-5200U Processor (3M Cache, 2.2GHz)
 
@@ -15,6 +15,10 @@ Hackintosh Thinkpad-x1-Carbon-2015 (3rd gen) - OpenCore 0.7.2
 + Audio: Realtek® ALC3232 / ALC292
 
 + Intel Dual Band Wireless-AC 7265 and Bluetooth 4.0
+
+### Before upgrading to Monterey
+
++ Replace "IntelBluetoothInjector.kext" with "BlueToolFixup.kext"
 
 ### What works
 
