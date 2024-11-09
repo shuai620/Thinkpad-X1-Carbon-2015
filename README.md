@@ -1,8 +1,8 @@
 # Thinkpad-x1-Carbon-2015 (3rd Gen)
-Hackintosh Thinkpad-x1-Carbon-2015 (3rd gen) - OpenCore 0.9.9
+Hackintosh Thinkpad-x1-Carbon-2015 (3rd gen) - OpenCore 1.0.2
 
 ### Specs
-+ OS: macOS Monterey 12.7.4 (Build 21H1123) x86_64 / MacBookPro12,1
++ OS: macOS Monterey 12.7.6 (Build 21H1320) x86_64 / MacBookPro12,1
 
 + CPU: Intel® Core™ i5-5200U Processor (3M Cache, 2.2GHz)
 
