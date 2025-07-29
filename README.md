@@ -1,5 +1,5 @@
 # Thinkpad-x1-Carbon-2015 (3rd Gen)
-Hackintosh Thinkpad-x1-Carbon-2015 (3rd gen) - OpenCore 1.0.2
+Hackintosh Thinkpad-x1-Carbon-2015 (3rd gen) - OpenCore 1.0.5
 
 ### Specs
 + OS: macOS Monterey 12.7.6 (Build 21H1320) x86_64 / MacBookPro12,1
